@@ -1,0 +1,8 @@
+{
+  "base-testnet": {
+    "Carbon": {
+      "address": "0xfB34915FbE18F42a311c1b3d3bBAa8037513622d",
+      "startBlock": 8334862
+    }
+  }
+}
